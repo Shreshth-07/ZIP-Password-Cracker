@@ -1,0 +1,14 @@
+This software is open sourced and written in C#.
+
+All source code can be found at my GITHUB ,
+
+https://github.com/PhilipMur/Password-Cracker
+
+Should you have any doubt about the ZipFile_Cracker.exe software integrity,
+Use an anti virus scanner first to scan the zipped file
+or
+upload it to an online virus scanner of your choice and compare the checksums and file size of the zipped folder.
+
+Also you should compare SHA256 checksums.
+
+For all other questions see the github page where this project will be updated and maintained.
